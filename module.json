@@ -1,0 +1,14 @@
+{
+  "name": "cwp",
+  "title": "Custom Weapon Properties",
+  "description": "Adds custom weapon properties",
+  "version": "0.1",
+  "author": "LucasVon",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["cwp.js"],
+  "manifest": "https://raw.githubusercontent.com/LucasVon/CustomWeaponProperties/main/module.json",
+  "download": "https://github.com/LucasVon/CustomWeaponProperties/archive/main.zip",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.9"
+}
